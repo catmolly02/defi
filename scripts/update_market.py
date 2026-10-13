@@ -1,5 +1,6 @@
 import os,json,time,urllib.request
 from pathlib import Path
+Path('dist/data').mkdir(parents=True, exist_ok=True)
 key=os.environ.get('COINGECKO_API_KEY','')
 if not key:
     print('API key not configured; publishing reports only')
