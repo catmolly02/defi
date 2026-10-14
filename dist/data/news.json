@@ -1,0 +1,213 @@
+{
+  "source": "CoinDesk",
+  "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/?outputType=xml",
+  "fetched_at": "2026-10-14T07:24:03.616402+00:00",
+  "articles": [
+    {
+      "title": "Coinbase, which holds 5% of all bitcoin, wants the quantum fix started now",
+      "url": "https://www.coindesk.com/tech/2026/10/14/coinbase-which-holds-5-of-all-bitcoin-wants-the-quantum-fix-started-now",
+      "published_at": "2026-10-14T05:44:51+00:00",
+      "source": "CoinDesk",
+      "tags": [
+        "BTC"
+      ]
+    },
+    {
+      "title": "Ripple adds Stripe-owned wallets to XRP Ledger as AI payments pass 14 million",
+      "url": "https://www.coindesk.com/tech/2026/10/14/ripple-adds-stripe-owned-wallets-to-xrp-ledger-as-ai-payments-pass-14-million",
+      "published_at": "2026-10-14T05:24:12+00:00",
+      "source": "CoinDesk",
+      "tags": [
+        "XRP"
+      ]
+    },
+    {
+      "title": "Solana sets Oct. 21 for Alpenglow upgrade targeting 150-millisecond finality",
+      "url": "https://www.coindesk.com/tech/2026/10/14/solana-sets-oct-21-for-alpenglow-upgrade-targeting-150-millisecond-finality",
+      "published_at": "2026-10-14T04:11:16+00:00",
+      "source": "CoinDesk",
+      "tags": [
+        "SOL"
+      ]
+    },
+    {
+      "title": "Bitcoin climbs toward $84,000 after Fed’s Williams sees no rate hikes in 2027",
+      "url": "https://www.coindesk.com/markets/2026/10/14/bitcoin-climbs-toward-usd84-000-after-fed-s-williams-sees-no-rate-hikes-in-2027",
+      "published_at": "2026-10-14T03:50:54+00:00",
+      "source": "CoinDesk",
+      "tags": [
+        "BTC"
+      ]
+    },
+    {
+      "title": "Largest Philippines crypto exchange, Coins.ph, said to face central bank regulatory action",
+      "url": "https://www.coindesk.com/policy/2026/10/13/largest-philippines-crypto-exchange-coins-ph-said-to-face-central-bank-regulatory-action",
+      "published_at": "2026-10-14T01:00:00+00:00",
+      "source": "CoinDesk",
+      "tags": []
+    },
+    {
+      "title": "Strive raising $500 million to buy additional bitcoin with new preferred share class",
+      "url": "https://www.coindesk.com/markets/2026/10/13/strive-to-ipo-second-preferred-share-class-as-it-looks-to-further-build-bitcoin-treasury",
+      "published_at": "2026-10-13T23:23:05+00:00",
+      "source": "CoinDesk",
+      "tags": [
+        "BTC"
+      ]
+    },
+    {
+      "title": "BNY, Citadel Securities test tokenized U.S. Treasuries to speed up Wall Street financing",
+      "url": "https://www.coindesk.com/business/2026/10/13/bny-citadel-securities-test-tokenized-u-s-treasuries-to-speed-up-wall-street-financing",
+      "published_at": "2026-10-13T21:52:00+00:00",
+      "source": "CoinDesk",
+      "tags": []
+    },
+    {
+      "title": "Crypto exchange MNX takes on OKX, Bitget offering pre-IPO futures for AI giants",
+      "url": "https://www.coindesk.com/business/2026/10/13/new-crypto-exchange-takes-on-okx-bitget-with-unique-way-to-trade-ai-giants",
+      "published_at": "2026-10-13T15:52:09+00:00",
+      "source": "CoinDesk",
+      "tags": []
+    },
+    {
+      "title": "UK crypto trader says almost $800,000 lost in knife assault as wrench attacks proliferate",
+      "url": "https://www.coindesk.com/policy/2026/10/13/why-self-custody-and-hardware-wallets-cannot-prevent-physical-crypto-extortion",
+      "published_at": "2026-10-13T15:24:52+00:00",
+      "source": "CoinDesk",
+      "tags": []
+    },
+    {
+      "title": "South Korea blocks 27 crypto exchanges, including Bitmart and Kucoin",
+      "url": "https://www.coindesk.com/policy/2026/10/13/south-korea-blocks-27-crypto-exchanges-including-bitmart-and-kucoin",
+      "published_at": "2026-10-13T11:58:04+00:00",
+      "source": "CoinDesk",
+      "tags": []
+    },
+    {
+      "title": "Federated Hermes joins Wall Street's tokenization push with plans for first onchain fund shares",
+      "url": "https://www.coindesk.com/business/2026/10/13/federated-hermes-joins-wall-street-s-tokenization-push-with-plans-for-first-onchain-fund-shares",
+      "published_at": "2026-10-13T11:56:04+00:00",
+      "source": "CoinDesk",
+      "tags": []
+    },
+    {
+      "title": "Stacks' STX, a Bitcoin layer-2 token, has surged by 50% in four weeks",
+      "url": "https://www.coindesk.com/daybook-us/2026/10/13/stacks-stx-a-bitcoin-layer-2-token-has-surged-by-50-in-four-weeks",
+      "published_at": "2026-10-13T11:26:45+00:00",
+      "source": "CoinDesk",
+      "tags": [
+        "BTC"
+      ]
+    },
+    {
+      "title": "Bitcoin, ether slip and rebound as South Korean stocks slide on AI-related concerns",
+      "url": "https://www.coindesk.com/markets/2026/10/13/bitcoin-ether-slip-and-rebound-as-south-korean-stocks-slide-on-ai-related-concerns",
+      "published_at": "2026-10-13T11:06:39+00:00",
+      "source": "CoinDesk",
+      "tags": [
+        "BTC",
+        "ETH"
+      ]
+    },
+    {
+      "title": "Russia’s largest bank Sberbank secures approval to trade crypto",
+      "url": "https://www.coindesk.com/business/2026/10/13/russia-s-largest-bank-sberbank-secures-approval-to-trade-crypto",
+      "published_at": "2026-10-13T11:02:47+00:00",
+      "source": "CoinDesk",
+      "tags": []
+    },
+    {
+      "title": "Live updates: Bitcoin trading in tight range near $83,000 ahead of key U.S. inflation data",
+      "url": "https://www.coindesk.com/markets/2026/10/13/live-updates-bitcoin-whipsaws-between-usd81-000-and-usd84-000-as-altcoins-slide",
+      "published_at": "2026-10-13T10:46:57+00:00",
+      "source": "CoinDesk",
+      "tags": [
+        "BTC"
+      ]
+    },
+    {
+      "title": "Bitcoin diverges from South Korean stocks as AI concerns deepen the Kospi selloff",
+      "url": "https://www.coindesk.com/markets/2026/10/13/bitcoin-diverges-from-south-korean-stocks-as-ai-concerns-deepen-the-kospi-selloff",
+      "published_at": "2026-10-13T10:38:51+00:00",
+      "source": "CoinDesk",
+      "tags": [
+        "BTC"
+      ]
+    },
+    {
+      "title": "Ledger says 'spy' chip inside CryptoBilis Ledger devices transmitted wallet keys over mobile network",
+      "url": "https://www.coindesk.com/tech/2026/10/13/ledger-says-spy-chip-inside-cryptobilis-ledger-devices-transmitted-wallet-keys-over-mobile-network",
+      "published_at": "2026-10-13T09:27:47+00:00",
+      "source": "CoinDesk",
+      "tags": []
+    },
+    {
+      "title": "UK court ruling boosts government’s chances of keeping $5 billion in seized bitcoin",
+      "url": "https://www.coindesk.com/policy/2026/10/13/u-k-court-ruling-boosts-government-s-chances-of-keeping-gbp3-8-billion-seized-bitcoin",
+      "published_at": "2026-10-13T09:25:03+00:00",
+      "source": "CoinDesk",
+      "tags": [
+        "BTC"
+      ]
+    },
+    {
+      "title": "Bitcoin whale that sat through the March 2020 crash moves $378 million",
+      "url": "https://www.coindesk.com/markets/2026/10/13/bitcoin-whale-that-sat-through-the-march-2020-crash-moves-usd378-million",
+      "published_at": "2026-10-13T05:45:10+00:00",
+      "source": "CoinDesk",
+      "tags": [
+        "BTC"
+      ]
+    },
+    {
+      "title": "Tokenized SanDisk bets saw more liquidations than XRP as Asia’s chip rout wipes out $800 million",
+      "url": "https://www.coindesk.com/markets/2026/10/13/tokenized-sandisk-bets-saw-more-liquidations-than-xrp-as-asia-s-chip-rout-wipes-out-usd800-million",
+      "published_at": "2026-10-13T05:27:17+00:00",
+      "source": "CoinDesk",
+      "tags": [
+        "XRP"
+      ]
+    },
+    {
+      "title": "Once-largest Ethereum NFT marketplace Blur is shutting down after volumes collapse 99%",
+      "url": "https://www.coindesk.com/tech/2026/10/13/once-largest-ethereum-nft-marketplace-blur-is-shutting-down-after-volumes-collapse-99",
+      "published_at": "2026-10-13T04:43:18+00:00",
+      "source": "CoinDesk",
+      "tags": [
+        "ETH"
+      ]
+    },
+    {
+      "title": "Bitcoin rebounds above $83,000, decoupling from tumbling Korean stocks",
+      "url": "https://www.coindesk.com/markets/2026/10/13/bitcoin-rebounds-above-usd83-000-as-it-decouples-from-tumbling-korean-stocks-and-nasdaq-futures",
+      "published_at": "2026-10-13T04:18:20+00:00",
+      "source": "CoinDesk",
+      "tags": [
+        "BTC"
+      ]
+    },
+    {
+      "title": "Palantir's Europe head warns the region is 'missing the boat' on AI just as it did with the internet",
+      "url": "https://www.coindesk.com/policy/2026/10/12/palantir-executive-warns-europe-is-missing-the-boat-on-ai-just-like-it-did-with-the-internet",
+      "published_at": "2026-10-12T16:18:03+00:00",
+      "source": "CoinDesk",
+      "tags": []
+    },
+    {
+      "title": "Tom Lee sees $2 trillion wealth transfer fueling crypto demand as Bitmine buys more ether",
+      "url": "https://www.coindesk.com/business/2026/10/12/tom-lee-sees-usd2-trillion-wealth-transfer-fueling-crypto-demand-as-bitmine-buys-more-ether",
+      "published_at": "2026-10-12T15:27:09+00:00",
+      "source": "CoinDesk",
+      "tags": [
+        "ETH"
+      ]
+    },
+    {
+      "title": "Tokenized catastrophe bonds target the disaster-insurance gap",
+      "url": "https://www.coindesk.com/business/2026/10/12/tokenized-catastrophe-bonds-target-the-disaster-insurance-gap",
+      "published_at": "2026-10-12T15:00:00+00:00",
+      "source": "CoinDesk",
+      "tags": []
+    }
+  ]
+}
