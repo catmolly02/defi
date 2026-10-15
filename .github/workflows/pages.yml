@@ -40,8 +40,8 @@ jobs:
           restore-keys: |
             defi-data-v2-${{ steps.cache-date.outputs.day }}-
             defi-data-v2-
-      - name: Fetch CoinDesk RSS
-        run: python scripts/update_news.py
+      - name: Collect council resources and apply editorial tags
+        run: python scripts/update_resources.py
       - name: Fetch CoinGecko data
         continue-on-error: true
         env:
