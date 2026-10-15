@@ -1,0 +1,2227 @@
+{
+  "schema_version": 1,
+  "overrides": {
+    "13575a426f7698e0582429cf": {
+      "tags": [
+        "electronic-finance"
+      ],
+      "kind": "event",
+      "category": "support"
+    },
+    "a8e8c85db03cbc7f5bf736cb": {
+      "tags": [
+        "cross-border",
+        "electronic-finance"
+      ],
+      "kind": "event",
+      "category": "support"
+    },
+    "0de0c5e47a37357b933a0547": {
+      "tags": [
+        "electronic-finance"
+      ],
+      "kind": "event",
+      "category": "support"
+    },
+    "c2e1131aa7e3b77f38038312": {
+      "tags": [
+        "electronic-finance",
+        "security"
+      ],
+      "kind": "event",
+      "category": "support"
+    },
+    "3df564bb1184ff9584b492db": {
+      "tags": [
+        "stablecoin"
+      ],
+      "kind": "event",
+      "category": "support"
+    },
+    "8f9cd5f65763cbd97b224453": {
+      "tags": [
+        "cross-border",
+        "electronic-finance"
+      ],
+      "kind": "event",
+      "category": "support"
+    },
+    "da454e65ea18d4d213afea93": {
+      "tags": [
+        "electronic-finance",
+        "security"
+      ],
+      "kind": "event",
+      "category": "support"
+    },
+    "ec6e9fc87363fbc5f48f4aed": {
+      "tags": [
+        "security"
+      ],
+      "kind": "event",
+      "category": "support"
+    },
+    "91a5608bfffb94057be54801": {
+      "tags": [
+        "electronic-finance",
+        "fintech-ai"
+      ],
+      "kind": "event",
+      "category": "support"
+    },
+    "eed78b77e65450baaa604765": {
+      "tags": [
+        "electronic-finance"
+      ],
+      "kind": "event",
+      "category": "support"
+    },
+    "295572603f8f9c02f68b5b14": {
+      "tags": []
+    },
+    "f1c5848dc566f63dc070a34f": {
+      "tags": []
+    },
+    "430a76c6a2121d5250ab5a55": {
+      "tags": []
+    },
+    "30cb52e744eba754b20c8ef8": {
+      "tags": [
+        "fintech-ai",
+        "security"
+      ]
+    },
+    "fce5840d07b15315cf7dc86b": {
+      "tags": [
+        "fintech-ai"
+      ]
+    },
+    "d9c6bd47bb498bdcbba656ba": {
+      "tags": []
+    },
+    "e289eb6a93299daa68aa1233": {
+      "tags": []
+    },
+    "7fb2bb3fef276dfb77b7cbdd": {
+      "tags": []
+    },
+    "6741d7e1a16ace31ff0ff8f6": {
+      "tags": []
+    },
+    "97f337b0896bfdf259469061": {
+      "tags": []
+    },
+    "68ce13039bbb61f9ab0879ec": {
+      "tags": []
+    },
+    "d478db3ba103466a8666a3c7": {
+      "tags": []
+    },
+    "b3a5cf7098faa9477d35739b": {
+      "tags": []
+    },
+    "2fdbd4c1d2833baf1a27a6ff": {
+      "tags": []
+    },
+    "3d2f3c99393523422b157643": {
+      "tags": []
+    },
+    "836ff82d0d86e3afcadb412f": {
+      "tags": []
+    },
+    "9567b2f3fe13d19ac9e4ff6b": {
+      "tags": []
+    },
+    "0d67509318f62897f2f8b3ca": {
+      "tags": []
+    },
+    "060a11ed75a9bcf03d555e75": {
+      "tags": []
+    },
+    "49b1f07e072ac5f790e8050b": {
+      "tags": []
+    },
+    "c24851f32db9e0a6d09bba36": {
+      "tags": []
+    },
+    "94b29fb2e52b1b979e2d3cc8": {
+      "tags": []
+    },
+    "291697be224cd33761845a27": {
+      "tags": []
+    },
+    "adea4d0bad3c9550e8f15e0e": {
+      "tags": []
+    },
+    "e691f182d21183d722b9f35b": {
+      "tags": []
+    },
+    "69152a74f7ad92b22c5bb358": {
+      "tags": []
+    },
+    "a193071cf3e70750709ddda5": {
+      "tags": []
+    },
+    "99673652619f05673cd92f9b": {
+      "tags": []
+    },
+    "641af855a5cbf0a96139eba3": {
+      "tags": []
+    },
+    "5de7fab2f4d9ee814819b384": {
+      "tags": []
+    },
+    "d1c65d1e9011da438ca207c1": {
+      "tags": [
+        "fintech-ai"
+      ]
+    },
+    "8928e37a8e6431af6a3e9566": {
+      "tags": []
+    },
+    "0a734788dc7d0b7da4ef6545": {
+      "tags": []
+    },
+    "314e8e54457b2648edab097d": {
+      "tags": []
+    },
+    "95b8623df800b83fb4d4bbd5": {
+      "tags": []
+    },
+    "3482383ac232435c3ce8a62d": {
+      "tags": [
+        "electronic-finance",
+        "global-expansion"
+      ]
+    },
+    "a4eb9ad9b5650f54ae001b63": {
+      "tags": [
+        "electronic-finance"
+      ]
+    },
+    "b6f79fdbb19e842a20babfca": {
+      "tags": [
+        "fintech-ai"
+      ]
+    },
+    "8c639fb9a49dec717ed4e884": {
+      "tags": [
+        "digital-infra",
+        "stablecoin"
+      ]
+    },
+    "19f5fbf45f44a0a9173b9d51": {
+      "tags": [
+        "electronic-finance",
+        "fintech-ai"
+      ]
+    },
+    "3f69c410a01143636c852dc4": {
+      "tags": [
+        "fintech-ai"
+      ]
+    },
+    "7767eca2025255b354d77d35": {
+      "tags": [
+        "online-lending"
+      ]
+    },
+    "e18efbdc2096630b7a3db068": {
+      "tags": []
+    },
+    "71b768d01cff1ab921bff3bb": {
+      "tags": [
+        "electronic-finance",
+        "global-expansion"
+      ]
+    },
+    "241bc97e2ce2e811f6880a1e": {
+      "tags": [
+        "electronic-finance"
+      ]
+    },
+    "dd0005be298ffd03ea9dfa0d": {
+      "tags": [
+        "digital-infra",
+        "electronic-finance",
+        "fintech-ai",
+        "stablecoin"
+      ]
+    },
+    "881533e23c445b0acd593c8e": {
+      "tags": [
+        "fintech-ai",
+        "security"
+      ]
+    },
+    "24a6655c13a1ebcd3b2b778a": {
+      "tags": [
+        "aml"
+      ]
+    },
+    "4528f34c2afa516a382096ee": {
+      "tags": [
+        "cross-border",
+        "electronic-finance"
+      ]
+    },
+    "26e9f4e6d503ec3b8c4f1b2b": {
+      "tags": []
+    },
+    "cabd55a01ef7c8d80df30aeb": {
+      "tags": []
+    },
+    "c7e40a0f0ccc0470f65a188a": {
+      "tags": [
+        "electronic-finance"
+      ],
+      "kind": "link"
+    },
+    "ab2464d2d5f14b06877713c7": {
+      "tags": []
+    },
+    "23c805d2c073936106ef0d52": {
+      "tags": [
+        "digital-infra",
+        "sto"
+      ]
+    },
+    "5f4cbd282b23e680e429b74b": {
+      "tags": []
+    },
+    "ce8bd87b6f3ad2ad8bb49a8d": {
+      "tags": [
+        "digital-infra",
+        "global-expansion",
+        "online-lending"
+      ]
+    },
+    "5bbafbb919982fbe4d8318a8": {
+      "tags": []
+    },
+    "889a13036a5c1bd4862e3c99": {
+      "tags": [
+        "electronic-finance",
+        "fintech-ai"
+      ]
+    },
+    "309ab9cf5db6814a6f004e18": {
+      "tags": [
+        "electronic-finance"
+      ]
+    },
+    "e68a18770f794300cba5b95b": {
+      "tags": [
+        "electronic-finance"
+      ]
+    },
+    "dc8b6bab8d5a783172c9c7de": {
+      "tags": [
+        "digital-infra",
+        "sto"
+      ]
+    },
+    "adbb51d5ccc7afd4db15029f": {
+      "tags": []
+    },
+    "e0d555f2d2bbca7d42214e05": {
+      "tags": []
+    },
+    "0a708df29910503090dbb6c2": {
+      "tags": [
+        "electronic-finance"
+      ]
+    },
+    "c18b28c9d579eec7709ce84c": {
+      "tags": [
+        "electronic-finance",
+        "global-expansion"
+      ]
+    },
+    "ad7fe327a1400983c9b7ed71": {
+      "tags": []
+    },
+    "88358f821e110395881a0615": {
+      "tags": [
+        "digital-infra",
+        "electronic-finance",
+        "stablecoin"
+      ]
+    },
+    "cd087c7e150598f524293a67": {
+      "tags": []
+    },
+    "0f239cfa009150e3d0ce5aa8": {
+      "tags": []
+    },
+    "5f85c0933282e81387b8ef5e": {
+      "tags": []
+    },
+    "9f0a87b70e2fb7ff9eabcb45": {
+      "tags": [
+        "digital-infra",
+        "global-expansion",
+        "online-lending"
+      ]
+    },
+    "3f483c0eac9575acb19e894f": {
+      "tags": []
+    },
+    "b1bb6d96f278f04f490a9a75": {
+      "tags": [
+        "security"
+      ]
+    },
+    "26a9696aed1751dd50e94055": {
+      "tags": []
+    },
+    "2a677284935da27eaec46162": {
+      "tags": []
+    },
+    "0b0b6436e4ae8968d8671134": {
+      "tags": []
+    },
+    "05398046c0b670b7e1be7f1c": {
+      "tags": [
+        "electronic-finance",
+        "global-expansion"
+      ]
+    },
+    "21aa590ee4afb252d3ac19ff": {
+      "tags": [
+        "electronic-finance"
+      ]
+    },
+    "f579e155cb04c48e2fca9761": {
+      "tags": [
+        "cross-border",
+        "electronic-finance"
+      ]
+    },
+    "5321a0edd2f350c3dc2e062a": {
+      "tags": [
+        "digital-infra",
+        "global-expansion",
+        "sto"
+      ]
+    },
+    "56538b589a4609bee706eb03": {
+      "tags": [
+        "electronic-finance"
+      ]
+    },
+    "937056aad3936706e4e8e37e": {
+      "tags": []
+    },
+    "02d155c6ea33e5995525e312": {
+      "tags": []
+    },
+    "6df013bc77a87552b8e4fec2": {
+      "tags": []
+    },
+    "1c5cc31b4a01ee674e770772": {
+      "tags": [
+        "digital-infra",
+        "electronic-finance",
+        "global-expansion",
+        "stablecoin"
+      ]
+    },
+    "273f632565e5a566fc60bbb7": {
+      "tags": []
+    },
+    "15e708339e2d183f20b09dcb": {
+      "tags": []
+    },
+    "1a53aa5272163ec017c89437": {
+      "tags": []
+    },
+    "249f788bb97b402041dcd22e": {
+      "tags": [
+        "cross-border",
+        "digital-infra",
+        "electronic-finance",
+        "fintech-ai",
+        "stablecoin"
+      ],
+      "kind": "link"
+    },
+    "6d9db42895b2dd7819166f08": {
+      "tags": []
+    },
+    "75b9575bdfded1d35eb4f725": {
+      "tags": []
+    },
+    "ece72a025e0678c0fd87d60f": {
+      "tags": [
+        "aml"
+      ]
+    },
+    "fb0aab661168c779147cb0ea": {
+      "tags": []
+    },
+    "3ca1caff3e3c20132c03a434": {
+      "tags": []
+    },
+    "17232cd3a7fcce8d1016ea3f": {
+      "tags": []
+    },
+    "6f93b9536c000a1894be7ecd": {
+      "tags": [
+        "electronic-finance",
+        "security"
+      ]
+    },
+    "b0bc59e5fd630167a153d2da": {
+      "tags": []
+    },
+    "f0f7b7568f7b15eeeb6235f9": {
+      "tags": [
+        "aml",
+        "security"
+      ]
+    },
+    "8d70ef53e8cb0e45bd90f424": {
+      "tags": [
+        "fintech-ai",
+        "security"
+      ]
+    },
+    "407e7a85e51e6df497598983": {
+      "tags": []
+    },
+    "437894ce0b113d94b0ea704e": {
+      "tags": []
+    },
+    "df4a35222df0badd376599ee": {
+      "tags": []
+    },
+    "457c4868563c2be32176bbe4": {
+      "tags": []
+    },
+    "cd6503c13e5508640b5dd2ce": {
+      "tags": []
+    },
+    "ea5cff78336fb6a53bcf2247": {
+      "tags": []
+    },
+    "156d261332ae4645ebae9024": {
+      "tags": []
+    },
+    "7b9f31bd51327c2a5f1f1a0f": {
+      "tags": []
+    },
+    "9a82d39e48277bb45740a0ba": {
+      "tags": []
+    },
+    "199deca02a47c90d0a95c8ac": {
+      "tags": []
+    },
+    "13456f616a664859bd6df598": {
+      "tags": [
+        "aml",
+        "fintech-ai"
+      ]
+    },
+    "c79c8ea31017f145c251cbe9": {
+      "tags": []
+    },
+    "f7871c07b564038d1d780a3d": {
+      "tags": []
+    },
+    "ddf0d9a21686dbef8f68c556": {
+      "tags": [
+        "cross-border",
+        "electronic-finance",
+        "fintech-ai"
+      ]
+    },
+    "330cde55bc226e5966dc9411": {
+      "tags": []
+    },
+    "997122f03bddef6a621e9d12": {
+      "tags": []
+    },
+    "abfe19f4d77c90006965678b": {
+      "tags": []
+    },
+    "686a9c11015bd0b807083e28": {
+      "tags": []
+    },
+    "030e7b12309b867a527a2a88": {
+      "tags": []
+    },
+    "221a02e784c4925708fe69d6": {
+      "tags": []
+    },
+    "f879bed98809002b1036d975": {
+      "tags": []
+    },
+    "d05818a48394df5f20e7a267": {
+      "tags": [
+        "aml",
+        "electronic-finance",
+        "fintech-ai",
+        "security"
+      ],
+      "kind": "link"
+    },
+    "ddbc0771f39979e39c8e865f": {
+      "tags": []
+    },
+    "eb20fe38e96ca23213f1f4cc": {
+      "tags": []
+    },
+    "5e3183ac84cf9b06506960c0": {
+      "tags": []
+    },
+    "5ca41e591664fceccfcdf5be": {
+      "tags": []
+    },
+    "001a2d002e490d3bb5c1a990": {
+      "tags": []
+    },
+    "ba7983c2b04cbbec33bbefff": {
+      "tags": []
+    },
+    "31adbce3741777765ed7493f": {
+      "tags": [
+        "stablecoin"
+      ]
+    },
+    "9518f234188c3a5e3e5f954e": {
+      "tags": []
+    },
+    "2c632bd5f7cecfde2ad65647": {
+      "tags": []
+    },
+    "52f65383de34f02e77dc5c26": {
+      "tags": []
+    },
+    "ddcac4d58abf4b6f74eb822e": {
+      "tags": []
+    },
+    "f6e671ab6c3b5e9014e41425": {
+      "tags": []
+    },
+    "b106c78f2aae0bfcf54f04de": {
+      "tags": [
+        "fintech-ai",
+        "global-expansion",
+        "security"
+      ]
+    },
+    "6f707886207fcf198bb57dee": {
+      "tags": [
+        "digital-infra",
+        "global-expansion"
+      ]
+    },
+    "ac5cfe99b9fe6fce40acb3d8": {
+      "tags": [
+        "fintech-ai",
+        "security"
+      ]
+    },
+    "5ab8bc1aae025899c7c6ec01": {
+      "tags": [
+        "fintech-ai",
+        "security"
+      ]
+    },
+    "9c6293c844ebeede78eb153f": {
+      "tags": []
+    },
+    "18614d66f9ce0bcb317879ef": {
+      "tags": []
+    },
+    "3bcadcd75a7963d7ceaa7c26": {
+      "tags": []
+    },
+    "760c88203cb7cafda1ad0a20": {
+      "tags": []
+    },
+    "755e9740483107e7ae982de6": {
+      "tags": []
+    },
+    "b77029bbf227153ec3c3bb97": {
+      "tags": []
+    },
+    "6bcd15efe92254a4cdf5562a": {
+      "tags": []
+    },
+    "fe03d998cd208ba6bd2a9462": {
+      "tags": []
+    },
+    "870f632a109c30327cce4841": {
+      "tags": []
+    },
+    "35546be6ca8a92fc411f1986": {
+      "tags": []
+    },
+    "c31eef4cd808093d577b395a": {
+      "tags": []
+    },
+    "be4b1868bb5e821de0254a2f": {
+      "tags": []
+    },
+    "f8ce0dee838d52500858cdce": {
+      "tags": [
+        "security"
+      ]
+    },
+    "34d13d86c151c82ba6cbf83a": {
+      "tags": [
+        "security"
+      ]
+    },
+    "029b51bebaad91de3bc5f1a9": {
+      "tags": [
+        "fintech-ai",
+        "security"
+      ]
+    },
+    "f2798ca6d0cdc982771a4840": {
+      "tags": [
+        "fintech-ai",
+        "security"
+      ]
+    },
+    "e1047e6ce360e49e3959a19e": {
+      "tags": [
+        "fintech-ai",
+        "security"
+      ]
+    },
+    "38c85a2d7129630a045faa7f": {
+      "tags": []
+    },
+    "d957f421b2e57d19757aaa14": {
+      "tags": []
+    },
+    "cb6cffe7a3b06889400517b0": {
+      "tags": [
+        "global-expansion",
+        "security"
+      ]
+    },
+    "64b94a993bde5e0d5353d803": {
+      "tags": [
+        "fintech-ai",
+        "security"
+      ]
+    },
+    "3267336b4b745131d2038f59": {
+      "tags": [
+        "security"
+      ]
+    },
+    "0927ab2dd5dcbfbc45ac51c5": {
+      "tags": [
+        "digital-infra",
+        "security"
+      ]
+    },
+    "e3ef192a526cc0aad9c9aa7a": {
+      "tags": [
+        "cross-border",
+        "digital-infra",
+        "electronic-finance",
+        "fintech-ai"
+      ]
+    },
+    "c85eede8088155eee7574b26": {
+      "tags": [
+        "digital-infra"
+      ]
+    },
+    "d1e561652b4ac091701e3350": {
+      "tags": [
+        "fintech-ai",
+        "security"
+      ]
+    },
+    "2226566f31e038d72224a237": {
+      "tags": [
+        "digital-infra"
+      ]
+    },
+    "971e0c86dc7d28a50e568772": {
+      "tags": []
+    },
+    "e0e30b456feec4f839ac0f3b": {
+      "tags": []
+    },
+    "236cd6e09ee240e84770b438": {
+      "tags": [
+        "security"
+      ]
+    },
+    "b2f1ce36d16408db22501d91": {
+      "tags": []
+    },
+    "db92eb17f40c0f2381df24b1": {
+      "tags": [
+        "security"
+      ]
+    },
+    "9e2ae898d57b660d2822c655": {
+      "tags": [
+        "fintech-ai",
+        "security"
+      ]
+    },
+    "6d6c354eb357a97fdcd30e14": {
+      "tags": [
+        "security"
+      ]
+    },
+    "72c8ba7406129e2b26f8c394": {
+      "tags": [
+        "security"
+      ]
+    },
+    "4bffff79e04895a85e3af802": {
+      "tags": [
+        "digital-infra"
+      ]
+    },
+    "556935bcc1d2c9a3356ba726": {
+      "tags": [
+        "security"
+      ]
+    },
+    "1fcbf5f24c575a39ce150119": {
+      "tags": []
+    },
+    "1d6d01c8210897be899b63d5": {
+      "tags": []
+    },
+    "ba6251acfb24d5be751bfb06": {
+      "tags": []
+    },
+    "33ee1b5eaec0458e515f0715": {
+      "tags": [
+        "security"
+      ]
+    },
+    "bd8cf350068a2cb83284c653": {
+      "tags": []
+    },
+    "4a020fb967956939b86d50d7": {
+      "tags": [
+        "global-expansion"
+      ]
+    },
+    "053fe98cbb07974bc03c5fb5": {
+      "tags": []
+    },
+    "08848bdfabd444bcf3d34615": {
+      "tags": []
+    },
+    "440c0b25668b79e33367bb1b": {
+      "tags": [
+        "fintech-ai"
+      ]
+    },
+    "a27b5750ce539a02af1a8449": {
+      "tags": [
+        "fintech-ai",
+        "security"
+      ]
+    },
+    "8681ed7f453684e03d6c0413": {
+      "tags": [
+        "digital-infra",
+        "sto"
+      ]
+    },
+    "f4eea6a2cdbbe4a5f18e2564": {
+      "tags": []
+    },
+    "272d9b774d799f629a5e6396": {
+      "tags": []
+    },
+    "4b5465ca0855b12e404582c3": {
+      "tags": [
+        "security"
+      ]
+    },
+    "8cfef5144442c7334d8978cb": {
+      "tags": [
+        "digital-infra",
+        "electronic-finance",
+        "stablecoin"
+      ]
+    },
+    "dccf44e5780136a13b499f89": {
+      "tags": []
+    },
+    "4dc8da47f7436da8fe57f01f": {
+      "tags": [
+        "digital-infra",
+        "security"
+      ]
+    },
+    "37c6ce9720aa96ee0be3cc7d": {
+      "tags": [],
+      "kind": "link"
+    },
+    "52b69c0f468b23d338e306e7": {
+      "tags": [
+        "electronic-finance",
+        "global-expansion"
+      ]
+    },
+    "4e7c6f7fea1e61d7aec84edf": {
+      "tags": []
+    },
+    "9d848ff4015d16fab7049b24": {
+      "tags": [
+        "electronic-finance"
+      ]
+    },
+    "95175743df30024766812183": {
+      "tags": []
+    },
+    "54e5de3a47926589c2cc6c60": {
+      "tags": []
+    },
+    "1eb09275371442122ced68e1": {
+      "tags": [
+        "digital-infra",
+        "sto"
+      ]
+    },
+    "30f3a28557df63f3178edc26": {
+      "tags": [
+        "fintech-ai"
+      ]
+    },
+    "c029f3d271a0b7baa18a113e": {
+      "tags": [
+        "fintech-ai"
+      ],
+      "kind": "link"
+    },
+    "f5186b1c121db25092474843": {
+      "tags": [
+        "fintech-ai"
+      ]
+    },
+    "7091186d10fe55ec66f3c6a0": {
+      "tags": [
+        "electronic-finance",
+        "global-expansion"
+      ]
+    },
+    "44a377310e708315484c9cb3": {
+      "tags": []
+    },
+    "b786f10746b93b1b56a5b292": {
+      "tags": [
+        "online-lending"
+      ]
+    },
+    "7b9170818e50a102d6a2b6b4": {
+      "tags": [
+        "digital-infra"
+      ]
+    },
+    "4b24e64e66f4f1b47e4d04d2": {
+      "tags": [
+        "fintech-ai",
+        "security"
+      ]
+    },
+    "8d1a7e6421bebd33cff5fe86": {
+      "tags": []
+    },
+    "6f59ba6814905577bbecc50d": {
+      "tags": [
+        "digital-infra",
+        "sto"
+      ]
+    },
+    "842cc27dff5e232ae1fdad02": {
+      "tags": [
+        "security"
+      ]
+    },
+    "e79a521620aca66c04e302ff": {
+      "tags": [
+        "fintech-ai",
+        "global-expansion",
+        "security"
+      ]
+    },
+    "96d9ba39c6992ea5975f53d0": {
+      "tags": [
+        "fintech-ai",
+        "security"
+      ]
+    },
+    "270f693d1968ce62307e1d2a": {
+      "tags": [
+        "security"
+      ]
+    },
+    "879f2978d95fadc43a9a92be": {
+      "tags": [
+        "fintech-ai",
+        "security"
+      ]
+    },
+    "11c881ddb69b36d4cf872c27": {
+      "tags": [
+        "fintech-ai",
+        "security"
+      ]
+    },
+    "eed764252246d86505652bce": {
+      "tags": [
+        "fintech-ai",
+        "security"
+      ]
+    },
+    "574f6fe55a66ceb7b6cc8b67": {
+      "tags": [
+        "security"
+      ]
+    },
+    "c30f54356138f1e1536ed098": {
+      "tags": [
+        "fintech-ai",
+        "security"
+      ]
+    },
+    "d78ff97173a8ce96b31fe089": {
+      "tags": [
+        "security"
+      ]
+    },
+    "0b652ee5f7a02fae3e33525a": {
+      "tags": [
+        "security"
+      ]
+    },
+    "1c39c30d7b2830563e46f834": {
+      "tags": [
+        "security"
+      ]
+    },
+    "7c70a420ce4f9b9de04ef36e": {
+      "tags": [
+        "security"
+      ]
+    },
+    "66d485080b510f8af0edfea7": {
+      "tags": [
+        "security"
+      ]
+    },
+    "26bcd4a256d8330be474ac66": {
+      "tags": [
+        "security"
+      ]
+    },
+    "8f0233b73e699b440aebaa0a": {
+      "tags": [
+        "security"
+      ]
+    },
+    "6b687797ce667749e87c2a89": {
+      "tags": [
+        "stablecoin"
+      ]
+    },
+    "06521ac295b1011ecb7c0110": {
+      "tags": []
+    },
+    "1ee7c4b387fb41019c95b843": {
+      "tags": [
+        "aml"
+      ]
+    },
+    "93548d36fee26233976e19b6": {
+      "tags": [
+        "electronic-finance",
+        "stablecoin"
+      ]
+    },
+    "babab2018b22dbf3b86beea9": {
+      "tags": [
+        "stablecoin"
+      ]
+    },
+    "c0d819ea6af823d5220e83c7": {
+      "tags": []
+    },
+    "6400914cd4495c87c3e4c67a": {
+      "tags": [
+        "digital-infra",
+        "global-expansion"
+      ]
+    },
+    "f18abe05e290d1a3c6487f7a": {
+      "tags": [
+        "cross-border",
+        "electronic-finance",
+        "fintech-ai",
+        "stablecoin"
+      ],
+      "kind": "link"
+    },
+    "9c172250a54077df8e35cd1c": {
+      "tags": [
+        "aml",
+        "fintech-ai",
+        "security"
+      ]
+    },
+    "8db7d660de27188e2a31df35": {
+      "tags": [
+        "electronic-finance"
+      ]
+    },
+    "f6825b357db85dccf0c2dfd7": {
+      "tags": [
+        "electronic-finance",
+        "security"
+      ]
+    },
+    "8615f1356b899dbbffb14d32": {
+      "tags": [
+        "digital-infra"
+      ]
+    },
+    "9f98a437a9ebd973457fbff6": {
+      "tags": [
+        "fintech-ai"
+      ]
+    },
+    "75d87e17348c07207e844cc9": {
+      "tags": []
+    },
+    "83342bf39ade23dd3ca39bc2": {
+      "tags": [
+        "digital-infra"
+      ]
+    },
+    "4813b455f5a2c1e65c15a411": {
+      "tags": [
+        "fintech-ai"
+      ]
+    },
+    "ce6edf2c73f5ef64111368e3": {
+      "tags": [
+        "fintech-ai"
+      ]
+    },
+    "54e12f0d3f3ce333d36c56f4": {
+      "tags": [
+        "fintech-ai"
+      ]
+    },
+    "38bb53428acd29b0b0d93d81": {
+      "tags": []
+    },
+    "7b7424262b095e698c5b35fe": {
+      "tags": [
+        "aml"
+      ]
+    },
+    "b9b8b267569204b07c31fc60": {
+      "tags": [
+        "digital-infra",
+        "stablecoin"
+      ]
+    },
+    "1bb86a516d18303abb844aad": {
+      "tags": [
+        "cross-border",
+        "electronic-finance"
+      ]
+    },
+    "ca41fcb30d468c3331a01f2a": {
+      "tags": [
+        "aml",
+        "fintech-ai",
+        "security"
+      ]
+    },
+    "8358e2cf64b8b0271c979bd8": {
+      "tags": [
+        "aml",
+        "security"
+      ]
+    },
+    "7e1692dd605bf8a12883d178": {
+      "tags": []
+    },
+    "45214e797707d592231b0ff7": {
+      "tags": []
+    },
+    "1112c42d42706b16588577bb": {
+      "tags": [
+        "digital-infra"
+      ]
+    },
+    "f0e6cdcd1403e54dfcf8c327": {
+      "tags": [
+        "fintech-ai"
+      ]
+    },
+    "39650cc1ad002ae45f2c1602": {
+      "tags": []
+    },
+    "d633c614ab2894b230d4b120": {
+      "tags": [
+        "electronic-finance",
+        "fintech-ai",
+        "security"
+      ]
+    },
+    "5f0fe795916f56d6f06bbea0": {
+      "tags": []
+    },
+    "5538972bd2f227a97ebbd280": {
+      "tags": [
+        "fintech-ai",
+        "security"
+      ]
+    },
+    "c6b799afc2b97106a4228d5f": {
+      "tags": []
+    },
+    "89747a794c61dcb54ac5668a": {
+      "tags": [
+        "aml"
+      ]
+    },
+    "b6f253124c92541f24be745a": {
+      "tags": [
+        "cross-border",
+        "electronic-finance",
+        "stablecoin"
+      ]
+    },
+    "90ab4cae26585020b4124b92": {
+      "tags": [
+        "electronic-finance",
+        "global-expansion"
+      ]
+    },
+    "852df54daa1c4c22de6ef492": {
+      "tags": [
+        "electronic-finance"
+      ]
+    },
+    "d1b8ed6eeb212482ed30c282": {
+      "tags": [
+        "aml",
+        "fintech-ai",
+        "security"
+      ],
+      "kind": "link"
+    },
+    "4cadc35de8f0c1c0a8beb036": {
+      "tags": [
+        "digital-infra"
+      ]
+    },
+    "33a12e858410ee3c3434eb6f": {
+      "tags": [
+        "digital-infra"
+      ]
+    },
+    "d5f104190d78771f0e767b8b": {
+      "tags": []
+    },
+    "a6d0d0e7416982fe90b00698": {
+      "tags": [
+        "global-expansion",
+        "security"
+      ]
+    },
+    "fbb903a86df57b842ea85f2f": {
+      "tags": [
+        "cross-border",
+        "electronic-finance"
+      ]
+    },
+    "38c701e4a5f26bb18eed801e": {
+      "tags": [
+        "digital-infra",
+        "global-expansion"
+      ]
+    },
+    "4e0e501c58723bbd63fb7676": {
+      "tags": [
+        "digital-infra",
+        "electronic-finance",
+        "stablecoin"
+      ]
+    },
+    "9f97cb294aa3b089de0770d7": {
+      "tags": [
+        "digital-infra"
+      ]
+    },
+    "0216ffa85ccdd0375864da30": {
+      "tags": [
+        "security"
+      ]
+    },
+    "8e0d8b636937920b5a6d1dd9": {
+      "tags": [
+        "fintech-ai"
+      ]
+    },
+    "767a92b0d5fcdc5afb211901": {
+      "tags": [
+        "digital-infra"
+      ]
+    },
+    "2aea6a016b0c8e523665737f": {
+      "tags": [
+        "fintech-ai",
+        "security"
+      ]
+    },
+    "08ae465e5ba19c15d9b04fc0": {
+      "tags": [
+        "electronic-finance"
+      ],
+      "kind": "link"
+    },
+    "e92273f08fe1ad80f438819d": {
+      "tags": [
+        "fintech-ai"
+      ]
+    },
+    "8f30662f8c496d4822425663": {
+      "tags": [
+        "digital-infra",
+        "global-expansion"
+      ]
+    },
+    "0343da8cfb17375b298edd13": {
+      "tags": [
+        "aml",
+        "digital-infra",
+        "security"
+      ]
+    },
+    "7ac486e8a232dec155331e8b": {
+      "tags": [
+        "cross-border",
+        "electronic-finance",
+        "stablecoin"
+      ]
+    },
+    "74554c3cf297655d233a0f30": {
+      "tags": [
+        "electronic-finance",
+        "fintech-ai",
+        "security"
+      ]
+    },
+    "49d9587957fa7472f953ce7c": {
+      "tags": []
+    },
+    "0fec036889e5222fb3deef3c": {
+      "tags": [
+        "fintech-ai"
+      ],
+      "kind": "link"
+    },
+    "051509194dcd909e1803ccb8": {
+      "tags": [
+        "fintech-ai"
+      ]
+    },
+    "da7733ee086f5b63f291d7f5": {
+      "tags": []
+    },
+    "687364b42af76b8ac7b715f2": {
+      "tags": [
+        "aml",
+        "electronic-finance",
+        "fintech-ai",
+        "online-lending",
+        "security"
+      ]
+    },
+    "aada9cd99834aab68e0aa289": {
+      "tags": [
+        "digital-infra"
+      ]
+    },
+    "9244859bd907387dd716349f": {
+      "tags": [
+        "cross-border",
+        "electronic-finance"
+      ],
+      "kind": "link"
+    },
+    "aca3d3b6ef1dfcd19a28ccf4": {
+      "tags": [
+        "digital-infra",
+        "sto"
+      ]
+    },
+    "825827a4f130b404039bd3cf": {
+      "tags": [
+        "electronic-finance"
+      ]
+    },
+    "859ad91fd53945227738ee84": {
+      "tags": [
+        "digital-infra",
+        "sto"
+      ],
+      "kind": "link"
+    },
+    "5faf726891f2de18165c8506": {
+      "tags": [
+        "fintech-ai",
+        "security"
+      ]
+    },
+    "f10681000dcc526597888ea5": {
+      "tags": []
+    },
+    "c0c15b19b17e38c03415e2c6": {
+      "tags": [
+        "fintech-ai"
+      ]
+    },
+    "108844bcdb5f1e22af5cd1ff": {
+      "tags": []
+    },
+    "5a320bf2105d2d998b7c7dea": {
+      "tags": [
+        "digital-infra",
+        "global-expansion"
+      ]
+    },
+    "176227c0d0e5ae0bea217df6": {
+      "tags": []
+    },
+    "293c9ebb77cc27a2a33d1473": {
+      "tags": []
+    },
+    "fdca71a7ef5415460309e983": {
+      "tags": []
+    },
+    "7b692d98b09f03f9f4f23e8a": {
+      "tags": [
+        "security"
+      ]
+    },
+    "6dd534a4c0eb42e17c060879": {
+      "tags": []
+    },
+    "df24c8961cba4242c41654ea": {
+      "tags": []
+    },
+    "4a9bec023741b15d3896dcac": {
+      "tags": [
+        "digital-infra",
+        "electronic-finance",
+        "fintech-ai",
+        "stablecoin"
+      ],
+      "kind": "link"
+    },
+    "62caeba3968697ce2f660fd0": {
+      "tags": [
+        "electronic-finance"
+      ]
+    },
+    "1a5854fb172bc878779ba559": {
+      "tags": [
+        "fintech-ai"
+      ]
+    },
+    "846815ad494a697f26c23981": {
+      "tags": [
+        "online-lending"
+      ]
+    },
+    "46ad88c8d16be1112a6233e1": {
+      "tags": [
+        "electronic-finance",
+        "fintech-ai"
+      ]
+    },
+    "070caf92327812e3d23fb0f5": {
+      "tags": [
+        "aml"
+      ]
+    },
+    "a60e753041baf70a990a7a15": {
+      "tags": [
+        "digital-infra"
+      ],
+      "kind": "link"
+    },
+    "3822a9064d413cc276a0ea92": {
+      "tags": [
+        "digital-infra",
+        "sto"
+      ]
+    },
+    "e849389eb0ff0fde67db657a": {
+      "tags": [
+        "global-expansion"
+      ]
+    },
+    "2857ebad1592c270713c4ae3": {
+      "tags": [
+        "fintech-ai"
+      ]
+    },
+    "751912e1fefbda2b7bf70e90": {
+      "tags": [
+        "aml",
+        "fintech-ai",
+        "security"
+      ]
+    },
+    "330b68efb76781e61b307fd6": {
+      "tags": [
+        "digital-infra",
+        "sto"
+      ]
+    },
+    "5e77ab3b4c32adbb70fa1f8f": {
+      "tags": []
+    },
+    "46b2d7410c8d4c89873283af": {
+      "tags": []
+    },
+    "8a5fe60d03eb83d0b42ec494": {
+      "tags": []
+    },
+    "f2a9062976e1a7e53e06bec3": {
+      "tags": [
+        "online-lending"
+      ]
+    },
+    "0e84d96f0e8ef4c2635ed106": {
+      "tags": []
+    },
+    "180970e1dad456a81be489c9": {
+      "tags": [
+        "fintech-ai"
+      ]
+    },
+    "70890f8507dbeec21e9e3307": {
+      "tags": [
+        "mobile-coupon"
+      ]
+    },
+    "2fa06f351e50e963230a65a4": {
+      "tags": []
+    },
+    "878feaa909999e53d91472a8": {
+      "tags": [
+        "aml"
+      ],
+      "kind": "link"
+    },
+    "5f46f3fcc38163e6c5f30dec": {
+      "tags": [
+        "aml",
+        "fintech-ai"
+      ]
+    },
+    "a069b1c80e8fc9c1df8a905d": {
+      "tags": [
+        "cross-border",
+        "electronic-finance"
+      ]
+    },
+    "0d1a1a039f2eaa179a4c69ce": {
+      "tags": []
+    },
+    "9b992b7c14f8d56dd870b169": {
+      "tags": [
+        "fintech-ai",
+        "online-lending"
+      ]
+    },
+    "2b4d37ed73cf00f6f2d49338": {
+      "tags": []
+    },
+    "f40a20fde6f93879fb853dfe": {
+      "tags": [
+        "security"
+      ]
+    },
+    "9e79dd8b01f43ff2550b6f1c": {
+      "tags": [
+        "fintech-ai"
+      ],
+      "kind": "link"
+    },
+    "7bdf72e733aa53e1e2817c41": {
+      "tags": [
+        "electronic-finance"
+      ],
+      "kind": "link"
+    },
+    "e4c3dfb5c651f939560cee92": {
+      "tags": [
+        "aml",
+        "electronic-finance",
+        "stablecoin"
+      ]
+    },
+    "cb445326c363105c282035b6": {
+      "tags": []
+    },
+    "671239a960efeac7f5e6f8dc": {
+      "tags": [
+        "aml"
+      ]
+    },
+    "82895607e25b8203f488db6d": {
+      "tags": []
+    },
+    "7f74fca54627b0ee7cfacf7b": {
+      "tags": [
+        "aml",
+        "security"
+      ]
+    },
+    "687bce93f7c6c857699d7088": {
+      "tags": [
+        "digital-infra",
+        "security"
+      ]
+    },
+    "a07b492ee930a775d14a075b": {
+      "tags": [
+        "fintech-ai"
+      ]
+    },
+    "d29366572bfb40aeb8254298": {
+      "tags": [
+        "electronic-finance",
+        "fintech-ai",
+        "security"
+      ],
+      "kind": "link"
+    },
+    "6c032b7322908125ce495029": {
+      "tags": [
+        "aml",
+        "fintech-ai"
+      ]
+    },
+    "672b10fdfbbe8d8d0b5f7d7b": {
+      "tags": [
+        "aml"
+      ]
+    },
+    "c7fd5788be867bf5c8d47883": {
+      "tags": [
+        "electronic-finance",
+        "fintech-ai"
+      ]
+    },
+    "86430fbc72e2a898cd73f242": {
+      "tags": [
+        "cross-border",
+        "digital-infra",
+        "electronic-finance",
+        "stablecoin"
+      ]
+    },
+    "7a941800d447a9b48873903e": {
+      "tags": [
+        "fintech-ai"
+      ]
+    },
+    "2c3d8cf1ceb37b8cf37a7a2f": {
+      "tags": [
+        "fintech-ai",
+        "security"
+      ]
+    },
+    "bf86bf9d1a976997fc9241e9": {
+      "tags": [],
+      "kind": "link"
+    },
+    "a160f899b52502c635f8efb3": {
+      "tags": [
+        "cross-border",
+        "electronic-finance"
+      ]
+    },
+    "4bfbc5359af68d4c8fb871ea": {
+      "tags": [
+        "aml"
+      ]
+    },
+    "ade93f7dc32c495a9a0bdf4e": {
+      "tags": []
+    },
+    "57026511c0400cb54d302d89": {
+      "tags": []
+    },
+    "dc500e0edb53a5c366240344": {
+      "tags": [
+        "aml",
+        "cross-border",
+        "electronic-finance"
+      ]
+    },
+    "50186e6cedc1fe1b318d0a0a": {
+      "tags": [
+        "electronic-finance"
+      ]
+    },
+    "818e2356920c8cdafc1b680c": {
+      "tags": []
+    },
+    "e5587dcfb1b0b6e086730f79": {
+      "tags": []
+    },
+    "dd0bc869135ddf6d1a19ceba": {
+      "tags": []
+    },
+    "a3d195d06fc28f9a564f2221": {
+      "tags": []
+    },
+    "d6bcec0a2f8b0b6065d35337": {
+      "tags": []
+    },
+    "9206efcbb2632c82999edb09": {
+      "tags": []
+    },
+    "4f8d9d97661fc540d9e56420": {
+      "tags": [
+        "electronic-finance"
+      ]
+    },
+    "dd092c780218bcc37e4e91f4": {
+      "tags": [
+        "aml",
+        "digital-infra"
+      ]
+    },
+    "69b279716065458ee0d2a217": {
+      "tags": [
+        "digital-infra"
+      ]
+    },
+    "ccc9b32da34b84a97a2e6d80": {
+      "tags": []
+    },
+    "abed8baa4fc7451a74f84207": {
+      "tags": []
+    },
+    "131187e035166d5f300ba915": {
+      "tags": [
+        "electronic-finance"
+      ],
+      "kind": "link"
+    },
+    "b415a4cc1994d7460aa708c6": {
+      "tags": [
+        "aml",
+        "digital-infra",
+        "stablecoin"
+      ]
+    },
+    "68af2402448f23cfe185f93b": {
+      "tags": [
+        "fintech-ai"
+      ],
+      "kind": "link"
+    },
+    "d8e93b5c8a9c983287206b1a": {
+      "tags": [
+        "aml",
+        "security"
+      ]
+    },
+    "a3835919fa2f73789f11467e": {
+      "tags": [
+        "aml",
+        "global-expansion"
+      ]
+    },
+    "28481ccb47aad442edf643f6": {
+      "tags": [
+        "aml"
+      ]
+    },
+    "505e06d0f17d0e0d8130e74c": {
+      "tags": [
+        "digital-infra",
+        "stablecoin"
+      ]
+    },
+    "ed78df79a9ef291adcd985e7": {
+      "tags": [
+        "security"
+      ]
+    },
+    "0ab41cef1b4a6b77f6040c9b": {
+      "tags": []
+    },
+    "f614e1ea46a04747af6c97f0": {
+      "tags": []
+    },
+    "58379854b23ba74aaf7e9e95": {
+      "tags": [
+        "fintech-ai",
+        "security"
+      ]
+    },
+    "c5461a3f2a54d96fe8525119": {
+      "tags": [
+        "aml",
+        "fintech-ai",
+        "security"
+      ]
+    },
+    "94200bda6e52d2169307c1db": {
+      "tags": [
+        "fintech-ai",
+        "security"
+      ]
+    },
+    "6e30af7ad3f33b0e39cdb1bf": {
+      "tags": []
+    },
+    "e0a65a910799289f74efd8ef": {
+      "tags": [
+        "electronic-finance"
+      ]
+    },
+    "d9820c350bfe9951520931c3": {
+      "tags": []
+    },
+    "d8a45519281acdc27d2f5d20": {
+      "tags": []
+    },
+    "b0d092a98f6c87c5995091e8": {
+      "tags": []
+    },
+    "c26d9c3d073bab5297a4af06": {
+      "tags": [
+        "digital-infra"
+      ]
+    },
+    "9412ed902bfacf305de75ed4": {
+      "tags": [
+        "fintech-ai"
+      ],
+      "kind": "link"
+    },
+    "47b5058b266966857fb2f412": {
+      "tags": [
+        "electronic-finance"
+      ]
+    },
+    "05774fee31f0e41441ee4e49": {
+      "tags": [
+        "security"
+      ],
+      "kind": "link"
+    },
+    "e27f479fe96df231cf77f755": {
+      "tags": [
+        "electronic-finance"
+      ],
+      "kind": "link"
+    },
+    "9c537bcccb9283ff22808cce": {
+      "tags": [
+        "aml"
+      ]
+    },
+    "16ffc0a8da9a732c79bad66c": {
+      "tags": [
+        "electronic-finance",
+        "fintech-ai"
+      ]
+    },
+    "f8dd9870413c00822a6c1ddb": {
+      "tags": [
+        "electronic-finance",
+        "security"
+      ],
+      "kind": "link"
+    },
+    "deed273a501856bc4269213e": {
+      "tags": [
+        "security"
+      ]
+    },
+    "4ff88ea9ef1e7d250c3aba75": {
+      "tags": [],
+      "kind": "link"
+    },
+    "149eab4dd2596ad14e91ef8a": {
+      "tags": [
+        "electronic-finance"
+      ],
+      "kind": "link"
+    },
+    "ec9b31d675c4e3fdba0f2c30": {
+      "tags": [
+        "aml"
+      ]
+    },
+    "f34bfac85981cb77d456176c": {
+      "tags": [
+        "electronic-finance"
+      ],
+      "kind": "link"
+    },
+    "597d2149c79299ae59eb6bb4": {
+      "tags": [
+        "aml",
+        "security"
+      ],
+      "kind": "link"
+    },
+    "e5a177cbd56d6bbef1865042": {
+      "tags": [
+        "security"
+      ]
+    },
+    "a74041e629da4be718306811": {
+      "tags": [
+        "cross-border",
+        "electronic-finance"
+      ],
+      "kind": "link"
+    },
+    "ce1696dd4e63f9a2f4999911": {
+      "tags": [
+        "electronic-finance"
+      ],
+      "kind": "link"
+    },
+    "b9c40cd87e4db7ff8a64d67e": {
+      "tags": [
+        "aml",
+        "electronic-finance",
+        "security"
+      ],
+      "kind": "link"
+    },
+    "d7522f263c4540be4a393daf": {
+      "tags": [
+        "digital-infra",
+        "sto"
+      ],
+      "kind": "link"
+    },
+    "9e68a979d92059af88d7d701": {
+      "tags": [
+        "electronic-finance"
+      ],
+      "kind": "link"
+    },
+    "71a99a81eb9cce1a22540cf6": {
+      "tags": [
+        "electronic-finance"
+      ],
+      "kind": "link"
+    },
+    "fafd88347e4b5599363ed7ce": {
+      "tags": [
+        "electronic-finance"
+      ],
+      "kind": "link"
+    },
+    "56cd4b101fa4ad6a195eb4c8": {
+      "tags": [
+        "aml",
+        "electronic-finance",
+        "security"
+      ],
+      "kind": "link"
+    },
+    "e60d95c13b884aea52a6e8b5": {
+      "tags": [
+        "electronic-finance"
+      ],
+      "kind": "link"
+    },
+    "48c1544ce3d7ed08956e29fa": {
+      "tags": [
+        "electronic-finance"
+      ],
+      "kind": "link"
+    },
+    "593bab06968a02b014f621dd": {
+      "tags": [
+        "cross-border",
+        "electronic-finance"
+      ],
+      "kind": "link"
+    },
+    "d16a9804db50c0c0fd6e62fb": {
+      "tags": [
+        "electronic-finance"
+      ],
+      "kind": "link"
+    },
+    "e07b75a7d300d4a19713fbad": {
+      "tags": [
+        "security"
+      ],
+      "kind": "link"
+    },
+    "63bb2eaf6b7d2808269a18db": {
+      "tags": [],
+      "kind": "link"
+    },
+    "bfb67ed50b958455c1b4133e": {
+      "tags": [
+        "electronic-finance"
+      ],
+      "kind": "link"
+    },
+    "1f29646ba9c4de5dbdaff77b": {
+      "tags": [],
+      "kind": "link"
+    },
+    "e6c3f35b604051f184f3ff73": {
+      "tags": [
+        "electronic-finance",
+        "security"
+      ],
+      "kind": "link"
+    },
+    "dfecf8b54893f5eac43fe60a": {
+      "tags": [
+        "fintech-ai"
+      ],
+      "kind": "link"
+    },
+    "55e9c6f552776828580e1528": {
+      "tags": [
+        "electronic-finance"
+      ],
+      "kind": "link"
+    },
+    "57a653aaa7d7ebf1fdd39c88": {
+      "tags": [
+        "electronic-finance",
+        "security"
+      ],
+      "kind": "link"
+    },
+    "5d93a140592b64008dc2b41c": {
+      "tags": [],
+      "kind": "link"
+    },
+    "41af1c78d99be64ed6c402fc": {
+      "tags": [
+        "digital-infra",
+        "electronic-finance",
+        "stablecoin"
+      ],
+      "kind": "link"
+    },
+    "47f2481707392b93f5f586b2": {
+      "tags": [
+        "electronic-finance"
+      ],
+      "kind": "link"
+    },
+    "9d3070f1bd00ba0db741e091": {
+      "tags": [],
+      "kind": "link"
+    },
+    "bb34f4895c9c1125dbe9e006": {
+      "tags": [
+        "aml",
+        "electronic-finance",
+        "security"
+      ],
+      "kind": "link"
+    },
+    "2f59c64fe3049d31257a68b0": {
+      "tags": [],
+      "kind": "link"
+    },
+    "a6118e6afe71c95dcb30bf97": {
+      "tags": [
+        "aml"
+      ],
+      "kind": "link"
+    },
+    "5cb5962734806cecd5a5eabe": {
+      "tags": [
+        "fintech-ai"
+      ],
+      "kind": "link"
+    },
+    "fe54a0cbf796c827bb3486ac": {
+      "tags": [],
+      "kind": "link"
+    },
+    "7ac8c4c4094bce4963d66849": {
+      "tags": [
+        "fintech-ai"
+      ],
+      "kind": "link"
+    },
+    "0e01ddeb7492b9125ae1dc93": {
+      "tags": [
+        "aml",
+        "digital-infra",
+        "stablecoin"
+      ],
+      "kind": "link"
+    },
+    "5d729039b6c7850dd4a29f7a": {
+      "tags": [],
+      "kind": "link"
+    },
+    "84b5ea2485a9625e53305839": {
+      "tags": [
+        "digital-infra"
+      ],
+      "kind": "link"
+    },
+    "d0bcd4145d86ff83716a1b8b": {
+      "tags": [
+        "digital-infra"
+      ],
+      "kind": "link"
+    },
+    "b8510ed381426cb23250c997": {
+      "tags": [
+        "digital-infra",
+        "sto"
+      ],
+      "kind": "link"
+    },
+    "dd63c2a8d031cfbc3000a106": {
+      "tags": [],
+      "kind": "link"
+    },
+    "b2a06131b9a45ade9af56b10": {
+      "tags": [],
+      "kind": "link"
+    },
+    "2816498121cf58068421ffa3": {
+      "tags": [
+        "digital-infra"
+      ],
+      "kind": "link"
+    },
+    "076de08ed1ce0098267b9c20": {
+      "tags": [
+        "aml",
+        "fintech-ai",
+        "security"
+      ],
+      "kind": "link"
+    },
+    "f32b770b4be397c84ca36d46": {
+      "tags": [
+        "digital-infra"
+      ],
+      "kind": "link"
+    },
+    "cce24e2547215f8a3acc8523": {
+      "tags": [],
+      "kind": "link"
+    },
+    "f6419ee1470df09c9bc9f71b": {
+      "tags": [
+        "digital-infra",
+        "electronic-finance"
+      ],
+      "kind": "link"
+    },
+    "ce44cddbd0fee5f02eebec70": {
+      "tags": [
+        "digital-infra",
+        "stablecoin"
+      ],
+      "kind": "link"
+    },
+    "8f8191c895c64c6687238f71": {
+      "tags": [
+        "digital-infra",
+        "electronic-finance",
+        "stablecoin"
+      ],
+      "kind": "link"
+    },
+    "920d8dd2625c6f227ae3663b": {
+      "tags": [
+        "aml",
+        "electronic-finance"
+      ],
+      "kind": "link"
+    },
+    "f8805a6ade15498ac1414c21": {
+      "tags": [],
+      "kind": "link"
+    },
+    "e237280a14a28831d7700e2f": {
+      "tags": [],
+      "kind": "link"
+    },
+    "a7fe9f5c3b3d06464b2397df": {
+      "tags": [],
+      "kind": "link"
+    },
+    "aa5140b471854e1af40de2f6": {
+      "tags": [],
+      "kind": "link"
+    },
+    "5e77575b35ca75cd89f095a9": {
+      "tags": [],
+      "kind": "link"
+    },
+    "c446fd37657fba116aa61cd4": {
+      "tags": [
+        "electronic-finance"
+      ],
+      "kind": "link"
+    },
+    "efabcc666ce7ef093bb87f20": {
+      "tags": [
+        "cross-border",
+        "electronic-finance"
+      ],
+      "kind": "link"
+    },
+    "6f403b0072b308162fcb49ab": {
+      "tags": [
+        "electronic-finance"
+      ],
+      "kind": "link"
+    },
+    "ab5c23e4bf7f589da4f978f5": {
+      "tags": [],
+      "kind": "link"
+    },
+    "9a9278e502981b491c55a81c": {
+      "tags": [],
+      "kind": "link"
+    },
+    "63937e0a8f9f4b1284b54815": {
+      "tags": [],
+      "kind": "link"
+    }
+  },
+  "manual_resources": []
+}

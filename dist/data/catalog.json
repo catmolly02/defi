@@ -1,0 +1,246 @@
+{
+  "councils": [
+    {
+      "id": "electronic-finance",
+      "label": "전자금융업협의회",
+      "short": "전자금융업",
+      "keywords": [
+        "전자결제",
+        "선불충전금",
+        "전자금융",
+        "pg",
+        "payment gateway",
+        "payments",
+        "payment initiation",
+        "e-money",
+        "digital payment",
+        "merchant acquiring",
+        "checkout",
+        "pay-by-bank",
+        "embedded finance",
+        "open banking",
+        "간편결제",
+        "선불전자"
+      ]
+    },
+    {
+      "id": "fintech-ai",
+      "label": "핀테크AI협의회",
+      "short": "핀테크 AI",
+      "keywords": [
+        "인공지능",
+        "생성형",
+        "ai",
+        "artificial intelligence",
+        "machine learning",
+        "agentic",
+        "llm"
+      ]
+    },
+    {
+      "id": "online-lending",
+      "label": "온라인투자연계금융협의회",
+      "short": "온라인투자연계금융",
+      "keywords": [
+        "온투업",
+        "온라인투자연계",
+        "p2p lending",
+        "crowdlending",
+        "peer-to-peer lending",
+        "digital lending",
+        "online lending",
+        "alternative lending",
+        "embedded lending",
+        "대출심사",
+        "온라인 대출",
+        "bnpl",
+        "buy now pay later"
+      ]
+    },
+    {
+      "id": "cross-border",
+      "label": "크로스보더페이먼트협의회",
+      "short": "크로스보더 결제",
+      "keywords": [
+        "해외송금",
+        "국경간 결제",
+        "국경 간 결제",
+        "국경간 지급",
+        "국경 간 지급",
+        "cross-border payment",
+        "cross border payment",
+        "remittance",
+        "international payments",
+        "multi-currency account",
+        "international sme payments"
+      ]
+    },
+    {
+      "id": "security",
+      "label": "정보보안협의회",
+      "short": "정보보안",
+      "keywords": [
+        "보안",
+        "해킹",
+        "개인정보",
+        "security",
+        "cyber",
+        "breach",
+        "authentication",
+        "ransomware",
+        "vulnerability",
+        "vulnerabilities",
+        "data protection",
+        "identity verification",
+        "fido",
+        "quantum threat"
+      ]
+    },
+    {
+      "id": "aml",
+      "label": "자금세탁방지업무협의회",
+      "short": "자금세탁방지",
+      "keywords": [
+        "자금세탁",
+        "트래블룰",
+        "aml",
+        "kyc",
+        "kyb",
+        "laundering",
+        "sanctions",
+        "financial crime",
+        "money mule",
+        "compliance screening",
+        "customer screening",
+        "de-risking"
+      ]
+    },
+    {
+      "id": "digital-infra",
+      "label": "디지털자산인프라협의회",
+      "short": "디지털자산 인프라",
+      "keywords": [
+        "블록체인",
+        "커스터디",
+        "암호자산",
+        "가상자산",
+        "디지털자산",
+        "디지털 자산",
+        "blockchain",
+        "crypto",
+        "custody",
+        "ledger",
+        "digital asset",
+        "distributed ledger",
+        "tokenization",
+        "tokenisation",
+        "tokenized",
+        "tokenised",
+        "stablecoin",
+        "xrp",
+        "solana",
+        "defi",
+        "on-chain"
+      ]
+    },
+    {
+      "id": "stablecoin",
+      "label": "스테이블코인협의회",
+      "short": "스테이블코인",
+      "keywords": [
+        "스테이블코인",
+        "stablecoin",
+        "stablecoins",
+        "usdc",
+        "usdt",
+        "usdg",
+        "euro token"
+      ]
+    },
+    {
+      "id": "sto",
+      "label": "토큰증권(STO)협의회",
+      "short": "토큰증권 · STO",
+      "keywords": [
+        "토큰증권",
+        "조각투자",
+        "sto",
+        "tokenized securities",
+        "tokenised securities",
+        "tokenized shares",
+        "tokenised shares",
+        "tokenized stock",
+        "tokenised stock",
+        "tokenized u.s. treasuries",
+        "tokenised treasuries",
+        "tokenized us treasuries",
+        "digital gilt",
+        "security token",
+        "securities tokenisation",
+        "securities tokenization"
+      ]
+    },
+    {
+      "id": "mobile-coupon",
+      "label": "모바일쿠폰협의회",
+      "short": "모바일쿠폰",
+      "keywords": [
+        "모바일쿠폰",
+        "모바일 쿠폰",
+        "상품권",
+        "기프티콘",
+        "기프티쇼",
+        "gift card",
+        "giftcard",
+        "e-voucher",
+        "mobile coupon"
+      ]
+    },
+    {
+      "id": "global-expansion",
+      "label": "해외진출협의회",
+      "short": "해외진출",
+      "keywords": [
+        "해외진출",
+        "해외 진출",
+        "해외규격인증",
+        "글로벌 시장",
+        "현지법인",
+        "international expansion",
+        "market entry",
+        "overseas expansion",
+        "global presence"
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": "policy",
+      "label": "규제·정책"
+    },
+    {
+      "id": "legislation",
+      "label": "입법동향"
+    },
+    {
+      "id": "industry",
+      "label": "산업동향"
+    },
+    {
+      "id": "technology",
+      "label": "기술동향"
+    },
+    {
+      "id": "research",
+      "label": "보고서·연구"
+    },
+    {
+      "id": "support",
+      "label": "지원사업·행사"
+    },
+    {
+      "id": "member",
+      "label": "회원사 소식"
+    }
+  ]
+}

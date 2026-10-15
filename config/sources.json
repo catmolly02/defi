@@ -1,0 +1,152 @@
+[
+  {
+    "id": "finextra-ai",
+    "name": "Finextra · AI",
+    "url": "https://www.finextra.com/rss/channel.aspx?channel=ai",
+    "region": "overseas",
+    "default_tags": [],
+    "category": "technology",
+    "kind": "news",
+    "enabled": true
+  },
+  {
+    "id": "finextra-payments",
+    "name": "Finextra · Payments",
+    "url": "https://www.finextra.com/rss/channel.aspx?channel=payments",
+    "region": "overseas",
+    "default_tags": [],
+    "category": "industry",
+    "kind": "news",
+    "enabled": true
+  },
+  {
+    "id": "finextra-regulation",
+    "name": "Finextra · Regulation",
+    "url": "https://www.finextra.com/rss/channel.aspx?channel=regulation",
+    "region": "overseas",
+    "default_tags": [],
+    "category": "policy",
+    "kind": "news",
+    "enabled": true
+  },
+  {
+    "id": "finextra-crime",
+    "name": "Finextra · Crime",
+    "url": "https://www.finextra.com/rss/channel.aspx?channel=crime",
+    "region": "overseas",
+    "default_tags": [],
+    "category": "policy",
+    "kind": "news",
+    "enabled": true
+  },
+  {
+    "id": "finextra-security",
+    "name": "Finextra · Security",
+    "url": "https://www.finextra.com/rss/channel.aspx?channel=security",
+    "region": "overseas",
+    "default_tags": [],
+    "category": "technology",
+    "kind": "news",
+    "enabled": true
+  },
+  {
+    "id": "finextra-crypto",
+    "name": "Finextra · Crypto",
+    "url": "https://www.finextra.com/rss/channel.aspx?channel=crypto",
+    "region": "overseas",
+    "default_tags": [],
+    "category": "industry",
+    "kind": "news",
+    "enabled": true
+  },
+  {
+    "id": "finextra-markets",
+    "name": "Finextra · Markets",
+    "url": "https://www.finextra.com/rss/channel.aspx?channel=markets",
+    "region": "overseas",
+    "default_tags": [],
+    "category": "industry",
+    "kind": "news",
+    "enabled": true
+  },
+  {
+    "id": "finextra-retail",
+    "name": "Finextra · Retail",
+    "url": "https://www.finextra.com/rss/channel.aspx?channel=retail",
+    "region": "overseas",
+    "default_tags": [],
+    "category": "industry",
+    "kind": "news",
+    "enabled": true
+  },
+  {
+    "id": "finextra-startups",
+    "name": "Finextra · Startups",
+    "url": "https://www.finextra.com/rss/channel.aspx?channel=startups",
+    "region": "overseas",
+    "default_tags": [],
+    "category": "industry",
+    "kind": "news",
+    "enabled": true
+  },
+  {
+    "id": "coindesk",
+    "name": "CoinDesk",
+    "url": "https://www.coindesk.com/arc/outboundfeeds/rss/?outputType=xml",
+    "region": "overseas",
+    "default_tags": [],
+    "category": "industry",
+    "kind": "news",
+    "enabled": true
+  },
+  {
+    "id": "hankyung-finance",
+    "name": "한국경제 · 금융",
+    "url": "https://www.hankyung.com/feed/finance",
+    "region": "domestic",
+    "default_tags": [],
+    "category": "industry",
+    "kind": "news",
+    "enabled": true
+  },
+  {
+    "id": "hankyung-economy",
+    "name": "한국경제 · 경제",
+    "url": "https://www.hankyung.com/feed/economy",
+    "region": "domestic",
+    "default_tags": [],
+    "category": "industry",
+    "kind": "news",
+    "enabled": true
+  },
+  {
+    "id": "boannews",
+    "name": "보안뉴스",
+    "url": "https://www.boannews.com/rss/allArticle.xml",
+    "region": "domestic",
+    "default_tags": [],
+    "category": "technology",
+    "kind": "news",
+    "enabled": true
+  },
+  {
+    "id": "bis-research",
+    "name": "BIS · 연구자료",
+    "url": "https://www.bis.org/doclist/bis_fsi_publs.rss",
+    "region": "overseas",
+    "default_tags": [],
+    "category": "research",
+    "kind": "report",
+    "enabled": true
+  },
+  {
+    "id": "mss",
+    "name": "중소벤처기업부",
+    "url": "https://www.mss.go.kr/rss/smba/board/86.do",
+    "region": "domestic",
+    "default_tags": [],
+    "category": "support",
+    "kind": "announcement",
+    "enabled": true
+  }
+]
