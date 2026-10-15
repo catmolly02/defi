@@ -67,5 +67,6 @@ el('export-edits').onclick=()=>{download('editorial.json',mergeEditorial());toas
 el('import-edits').onclick=()=>el('import-file').click();el('import-file').onchange=async event=>{const file=event.target.files[0];if(!file)return;const previous=state.draft;try{if(file.size>3_000_000)throw Error('편집 파일이 너무 큽니다.');const data=cleanEditorial(JSON.parse(await file.text()));state.draft=data;store();render();toast('편집 파일을 이 브라우저에 불러왔습니다.')}catch(error){state.draft=previous;toast(error.message||'편집 파일을 읽지 못했습니다.')}event.target.value=''};
 el('source-status').onclick=()=>el('sources-dialog').showModal();el('close-sources').onclick=()=>el('sources-dialog').close();el('resources-refresh').onclick=load;
 window.addEventListener('hashchange',()=>navigate(location.hash.slice(1)));navigate(location.hash.slice(1));load();
-window.DashboardCore={state,filteredResources,effectiveResources,cleanEditorial,applyOverride,mergeEditorial,render,load,resourceID,openEditor,cleanOverride,validURL,toast};
+function clearBrowserData(){state.draft={overrides:{},manual_resources:[]};state.saved=[];state.savedOnly=false;state.interestsOnly=false;try{localStorage.removeItem(storageKey)}catch{}render()}
+window.DashboardCore={state,filteredResources,effectiveResources,cleanEditorial,applyOverride,mergeEditorial,render,load,resourceID,openEditor,cleanOverride,validURL,toast,clearBrowserData};
 })();
