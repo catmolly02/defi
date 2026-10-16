@@ -23,3 +23,5 @@ body{background:#f5f8fb;color:#203b50}.dashboard-header{height:78px;position:sti
 @media(min-width:851px){.page-nav{gap:22px;flex-wrap:nowrap;white-space:nowrap}.dashboard-header{gap:22px}.brand{flex-shrink:0}.header-account{flex-shrink:0}}
 @media(min-width:561px) and (max-width:850px){.dashboard-header{min-height:76px;height:76px;padding:4px 16px;gap:14px}.dashboard-header .page-nav{height:100%;gap:12px;flex-wrap:nowrap;white-space:nowrap}.official{display:none}.page-nav a{font-size:11px}.header-account{margin-left:auto;flex-shrink:0}}
 @media(max-width:560px){.dashboard-header{min-height:104px;height:104px}.dashboard-header .page-nav{gap:17px;flex-wrap:nowrap;overflow-x:auto}.page-nav a{flex-shrink:0}.bookmark-import button{white-space:normal}}
+
+.admin-history{padding:16px 20px;margin:18px 0;background:#fff;border:1px solid #d6e1eb;border-radius:10px}.admin-history>div{display:flex;gap:10px;flex-wrap:wrap}.admin-history button{font-size:12px;padding:9px 13px;color:#234e75}.admin-history button:disabled{opacity:.45;cursor:default}.admin-history kbd{font:10px inherit;color:#7c8fa1;margin-left:8px}.admin-history p{font-size:12px;color:#71879a;margin:10px 0 0}
